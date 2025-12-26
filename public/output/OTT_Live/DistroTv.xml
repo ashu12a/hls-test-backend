@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv>
+  <channel id="News Tamil ">
+    <display-name>News Tamil </display-name>
+  </channel>
+  <programme channel="News Tamil " start="20251213000000 +0530" stop="20251213120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251213120000 +0530" stop="20251213235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251214000000 +0530" stop="20251214120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251214120000 +0530" stop="20251214235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251215000000 +0530" stop="20251215155000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251215155000 +0530" stop="20251215235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251216000000 +0530" stop="20251216120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251216120000 +0530" stop="20251216235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251217000000 +0530" stop="20251217105000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251217105000 +0530" stop="20251217125959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251217125959 +0530" stop="20251217155000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251217155000 +0530" stop="20251217235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251218000000 +0530" stop="20251218120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251218120000 +0530" stop="20251218235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251219000000 +0530" stop="20251219155000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251219155000 +0530" stop="20251219235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251220000000 +0530" stop="20251220120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251220120000 +0530" stop="20251220235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251221000000 +0530" stop="20251221155000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251221155000 +0530" stop="20251221235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251222000000 +0530" stop="20251222105500 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251222105500 +0530" stop="20251222125959 +0530">
+    <title lang="TM">XYZ</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251222125959 +0530" stop="20251222235959 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251223000000 +0530" stop="20251223105500 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251223105500 +0530" stop="20251223235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251224000000 +0530" stop="20251224120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251224120000 +0530" stop="20251224235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251225000000 +0530" stop="20251225120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251225120000 +0530" stop="20251225235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251226000000 +0530" stop="20251226155000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251226155000 +0530" stop="20251226235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251227000000 +0530" stop="20251227120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251227120000 +0530" stop="20251227235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251228000000 +0530" stop="20251228105000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251228105000 +0530" stop="20251228125959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251228125959 +0530" stop="20251228155000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251228155000 +0530" stop="20251228235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251229000000 +0530" stop="20251229120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251229120000 +0530" stop="20251229235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251230000000 +0530" stop="20251230155000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251230155000 +0530" stop="20251230235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251231000000 +0530" stop="20251231120000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20251231120000 +0530" stop="20251231235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20260101000000 +0530" stop="20260101155000 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20260101155000 +0530" stop="20260101235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20260102000000 +0530" stop="20260102105500 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20260102105500 +0530" stop="20260102125959 +0530">
+    <title lang="TM">XYZ</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20260102125959 +0530" stop="20260102235959 +0530">
+    <title lang="TM">SEITHIKATHIR</title>
+    <desc lang="TM">SEITHIKATHIR</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20260103000000 +0530" stop="20260103105500 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+  <programme channel="News Tamil " start="20260103105500 +0530" stop="20260103235959 +0530">
+    <title lang="TM">GOOD MORNING THAMIZHA</title>
+    <desc lang="TM">GOOD MORNING THAMIZHA</desc>
+    <icon></icon>
+    <rating system="IMPAA">
+      <value />
+    </rating>
+  </programme>
+</tv>
